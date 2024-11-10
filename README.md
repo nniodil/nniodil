@@ -1,26 +1,5 @@
 ## Hi, I'm Nadir Niodil 👋
 
-
-**nniodil/nniodil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Linkedin Badge](https://img.shields.io/badge/-aamoyel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-amoyel-82b86a15b/)](https://www.linkedin.com/in/alan-amoyel-82b86a15b/)
-[![Website Badge](https://img.shields.io/badge/-amoyel.fr-800000?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://amoyel.fr)
-[![X Badge](https://img.shields.io/badge/-@AlanAmoyel-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/_jesslim)](https://x.com/AlanAmoyel)
-[![Twitch Badge](https://img.shields.io/badge/-Alesio_AA-purple?style=flat&logo=twitch&logoColor=white&link=https://www.twitch.tv/alesio_aa)](https://www.twitch.tv/alesio_aa)
-[![Discord Badge](https://img.shields.io/badge/-Alesio7681-7289DA?style=flat&logo=discord&logoColor=white)]()
-[![Spotify Badge](https://img.shields.io/badge/-AlanAmoyel-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=French+SRE;Open-Source+and+CNCF+enthusiast;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
