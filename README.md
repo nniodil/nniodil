@@ -1,6 +1,6 @@
 ## Hi, I'm Nadir Niodil 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub;Nice+to+meet+you;French+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub;Nice+to+meet+you+!;French+Developer)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
 - 💼 Site Reliability Engineer at [S3NS](https://www.s3ns.io).
