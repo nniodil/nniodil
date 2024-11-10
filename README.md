@@ -4,7 +4,6 @@
 
 ## 📡 Current Status :
 - 💼 Student at ESGI.
-- 🖥️ Casual tech Twitch streamer ! [Join me here](https://www.twitch.tv/alesio_aa) !
 - 🎮 Love Making and Playing Games.
 - 💡 [Portfolio](https://nniodil.github.io/nadirniodil.github.io/)
 
