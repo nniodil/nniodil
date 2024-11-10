@@ -3,12 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub;Nice+to+meet+you+!;French+Developer)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
-- 💼 Site Reliability Engineer at [S3NS](https://www.s3ns.io).
+- 💼 Student at ESGI.
 - 🖥️ Casual tech Twitch streamer ! [Join me here](https://www.twitch.tv/alesio_aa) !
-- 🎸 Individual bass player.
-- 🎵 Love Jazz and Funky music.
+- 🎵 Love Playing Games.
 - 🎲 Vice-president of LogicMG organization.
-- 💡 [Learn more about me](https://about.amoyel.fr).
+- 💡 [Portfolio:](https://nniodil.github.io/nadirniodil.github.io/)
 
 <div align="center">
   <a href="https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva">
