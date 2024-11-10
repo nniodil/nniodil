@@ -7,7 +7,7 @@
 - 🖥️ Casual tech Twitch streamer ! [Join me here](https://www.twitch.tv/alesio_aa) !
 - 🎵 Love Playing Games.
 - 🎲 Vice-president of LogicMG organization.
-- 💡 [Portfolio:](https://nniodil.github.io/nadirniodil.github.io/)
+- 💡 [Portfolio](https://nniodil.github.io/nadirniodil.github.io/)
 
 <div align="center">
   <a href="https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva">
