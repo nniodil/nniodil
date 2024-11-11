@@ -43,7 +43,3 @@
 <a href="https://www.credly.com/badges/bea24e3a-5060-49b1-a6f5-50165a1cba36"><img width="120px" src="https://images.credly.com/size/340x340/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Unity Junior Programmer"></a>
 <a href="https://www.credly.com/badge/62d6ebfb-170a-4e73-9983-454914f13b01"><img width="120px" src="https://images.credly.com/size/340x340/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="Unity Essentials"></a>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
