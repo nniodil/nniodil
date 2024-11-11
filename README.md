@@ -7,14 +7,7 @@
 - 🎮 Love Making and Playing Games.
 - 💡 [Portfolio](https://nniodil.github.io/nadirniodil.github.io/)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/21jgklbc66jx456qo7xpymrva">
-    <img src="https://aamoyel.vercel.app/api/now-playing" alt="">
-  </a>
-</div>
-
 </br>
-
 
 ## 🚀 Skills :
 
