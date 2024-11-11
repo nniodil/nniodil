@@ -15,7 +15,7 @@
 <p align=left>
 <img src="https://img.shields.io/badge/C-237bec?style=for-the-badge">
 <img src="https://img.shields.io/badge/C++-237bec?style=for-the-badge">
-<img src="https://img.shields.io/badge/CSHARP-3c1593?style=for-the-badge">
+<img src="https://img.shields.io/badge/C#-3c1593?style=for-the-badge">
 <img src="https://img.shields.io/badge/HTML-fc9639?style=for-the-badge">
 <img src="https://img.shields.io/badge/CSS-0055f6?style=for-the-badge">
 <img src="https://img.shields.io/badge/PHP-657eff?style=for-the-badge">
