@@ -11,6 +11,13 @@
 
 ## 🚀 Skills :
 
+#### - Programming languages :
+<p align=left>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/C++-237bec?style=for-the-badge">
+
+</p>
+
 #### - Tools :
 <p align=left>
 <img src="https://img.shields.io/badge/Unreal Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white">
