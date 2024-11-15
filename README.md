@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+!;Nice+to+meet+you+!;French+Developer)](https://git.io/typing-svg)
 
 ## 📡 Current Status :
-- 💼 Student at ESGI.
+- 💼 Student at ESGI
 - ⌨️ Programmer
-- 🎮 Love Making Games.
-- 🎮 Love Playing Games.
+- 🤖 Love discovering new technologies
+- 🧠 Love resolving problems
+- 🎮 Make Games
+- 🕹️ Love Playing Games
 - 💡 [Portfolio](https://nniodil.github.io/nadirniodil.github.io/)
 
 </br>
