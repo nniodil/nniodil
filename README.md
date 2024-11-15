@@ -8,7 +8,6 @@
 - 🤖 Love discovering new technologies
 - 🧠 Love resolving problems
 - 🎮 Make Games
-- 🕹️ Love Playing Games
 - 💡 [Portfolio](https://nniodil.github.io/nadirniodil.github.io/)
 
 </br>
