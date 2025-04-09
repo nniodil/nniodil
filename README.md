@@ -4,10 +4,9 @@
 
 ## 📡 Current Status :
 - 💼 Student at ESGI
-- ⌨️ Programmer
+- ⌨️ Developer
 - 🤖 Love discovering new technologies
 - 🧠 Love resolving problems
-- 🎮 Make Games
 - 💡 [Portfolio](https://nniodil.github.io/nadirniodil.github.io/)
 
 </br>
